@@ -79,9 +79,9 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/EkiZR", label: "GitHub Profile" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ekizr/", label: "LinkedIn Profile" },
-  { icon: Instagram, link: "https://www.instagram.com/ekizr_/?hl=id", label: "Instagram Profile" }
+  { icon: Github, link: "https://github.com/marvinalvarro", label: "GitHub Profile" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/umar-hadyu-al-fajri-a507493aa/", label: "LinkedIn Profile" },
+  { icon: Instagram, link: "https://www.instagram.com/ahadyuuu__/", label: "Instagram Profile" }
 ];
 
 const Home = () => {
@@ -140,7 +140,7 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Umar Hadyu Al Fajri — Frontend Web Developer</title>
+        <title>Portfolio — Umar Hadyu Al Fajri </title>
         <meta name="description" content="Website resmi Umar Hadyu Al Fajri, Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
      <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://rumarhadyu.com" />
